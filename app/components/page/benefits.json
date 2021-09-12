@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_benefits",
+  "info": {
+    "name": "benefits",
+    "icon": "heart"
+  },
+  "options": {},
+  "attributes": {
+    "benefit": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
